@@ -1,3 +1,3 @@
-Super Bowl 54 Prop Bet Bingo Card generator
+Presidential Debate Bingo Card generator
 
-With anticipation for the big game this weekend, I built a website that generates Super Bowl bingo cards that you can print and bring to your Super Bowl Party.  If you want something fun for everyone this Sunday check it out https://cartern206.github.io/superbowl/bingo-card.html
+For the debate on 10/22, I built a bingo card generator that you can print and play along.  If you want something fun for everyone check it out: https://adambomb00.github.io/index.html
